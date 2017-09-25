@@ -1,6 +1,11 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html>
-<head>
-  <h1>Personal Repository</h1></head>
-  <p>abc</p>
-  </html>
+  <head>
+    <title>Repository</title>
+  </head>
+    <body>
+      <h1>My Profile</h1>
+      <h2>Some facts about me</h2>
+         <p>abc</p>
+    </body>
+</html>
