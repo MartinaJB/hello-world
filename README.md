@@ -10,14 +10,14 @@
       <p>abc</p>
       
     <table>
-    <thead>
-    <tr>
-      <th>Education</th>
-      <th>Goals</th>
-      <th>Dreams</th>
-    </tr>
-    </thead>
-   </table>
+       <thead>
+       <tr>
+         <th>Education</th>
+         <th>Goals</th>
+        <th>Dreams</th>
+        </tr>
+        </thead>
+    </table>
   
 </body>
 </html>
